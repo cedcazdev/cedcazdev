@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cédric 🧑🏻‍💻 a Jr. FullStack Web Developer </h1>
+<h1 align="center">Hi 👋, I'm Cédric 🧑🏻‍💻 a Jr. FullStack Developer </h1>
 <p align="center">I consider myself a responsible and proactive person in terms of deadlines and objectives to be met. I like learning new technologies and improving myself day by day, working in a team, bringing new ideas and listening to ideas from my collaborators. I am also a real estate agent, which gave me communication.</p>
 <br>
 
